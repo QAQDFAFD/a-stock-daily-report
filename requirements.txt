@@ -1,0 +1,5 @@
+akshare
+flask
+flask-cors
+pandas
+openai
